@@ -1,8 +1,8 @@
 @charset "UTF-8";
 /*!
-* Start Bootstrap - Creative v6.0.2 (https://startbootstrap.com/themes/creative)
+* Start Bootstrap - Creative v6.0.3 (https://startbootstrap.com/themes/creative)
 * Copyright 2013-2020 Start Bootstrap
-* Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-creative/blob/master/LICENSE)
+* Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-creative/blob/master/LICENSE)
 */
 /*!
  * Bootstrap v4.5.0 (https://getbootstrap.com/)
@@ -89,8 +89,6 @@ p {
   margin-bottom: 1rem;
 }
 
-
-
 /* ---------- Footer ---------- */
 
 
@@ -146,8 +144,6 @@ p {
 
 
 /*------------------------------------------*/
-
-
 
 abbr[title],
 abbr[data-original-title] {
@@ -3074,7 +3070,7 @@ input[type=button].btn-block {
   display: none;
   float: left;
   min-width: 10rem;
-  padding : 0.5rem 0;
+  padding: 0.5rem 0;
   margin: 0.125rem 0 0;
   font-size: 1rem;
   color: #212529;
@@ -3085,7 +3081,6 @@ input[type=button].btn-block {
   border: 1px solid rgba(0, 0, 0, 0.15);
   border-radius: 0.25rem;
 }
-
 
 .dropdown-menu-left {
   right: auto;
